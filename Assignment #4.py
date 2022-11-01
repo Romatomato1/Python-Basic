@@ -1,5 +1,4 @@
 #Roman Gofman
-#Section 02 CSC 110
 #11/4/2019
 #This is a program that takes in the starting age the amount saved and the ointerest rate to calculate the final
 #amount of money by the time they retire at 70.
